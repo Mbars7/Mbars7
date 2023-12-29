@@ -15,9 +15,9 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[twitter]: https://www.linkedin.com/in/mark-barsamian-3498a5134/
+[youtube]: https://www.linkedin.com/in/mark-barsamian-3498a5134/
+[instagram]: https://www.linkedin.com/in/mark-barsamian-3498a5134/
 [linkedin]: https://www.linkedin.com/in/mark-barsamian-3498a5134/
 
 <!--
