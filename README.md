@@ -5,9 +5,12 @@
 - <b>Home Labs</b>
   - [Active Directory](https://github.com/Mbars7/ActiveDirectoryHomeLab)
 
-<h2>Google Cybersecurity Certificate:</h2>
+<h2>📜 Google Cybersecurity Certificate:</h2>
 
-- [Completed all labs at 100% accuracy:](https://github.com/Mbars7/GoogleCybersecurityCert)
+- Obtaining the Google Cybersecurity Certificate involved working through a huge number of labs covering a wide variety of topics.  There were labs focused on security hardening, using playbooks, conducting security audits, and vulnerability assessments.  These labs also provided hands-on experience with Python, Linux CL, SQL, Suricata, Splunk, and Chronicle.  I completed all labs and quizzes at 100%.
+- [Details](
+https://github.com/Mbars7/GoogleCybersecurityCert)
+- [Details](https://github.com/Mbars7/GoogleCybersecurityCert)
   - 
   
 - <b>Python</b>
@@ -26,8 +29,6 @@
 [linkedin]: https://www.linkedin.com/in/mark-barsamian-3498a5134/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
