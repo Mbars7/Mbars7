@@ -7,8 +7,8 @@
 
 <h2>Google Cybersecurity Certificate:</h2>
 
-- <b>Google Cybersecurity Certificate</b>
-  - [)
+- <b>Completed all labs at 100% accuracy:</b>
+  - 
   
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
