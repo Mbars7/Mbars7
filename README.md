@@ -1,11 +1,11 @@
-<h1>Hi, I'm Mark!</h1>
+<h1>Hi, I'm Mark. Welcome to my Portfolio!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home Labs</b>
   - [Active Directory](https://github.com/Mbars7/ActiveDirectoryHomeLab/tree/main)
 
-<h3>👨‍💻Google Cybersecurity Certificate:</h3>
+<h2>Google Cybersecurity Certificate:</h2>
 
 - <b>Google Cybersecurity Certificate</b>
   - [)
