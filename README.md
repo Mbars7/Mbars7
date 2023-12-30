@@ -7,7 +7,7 @@
 
 <h2>Google Cybersecurity Certificate:</h2>
 
-- <b>Completed all labs at 100% accuracy:</b>
+- [Completed all labs at 100% accuracy:](https://github.com/Mbars7/GoogleCybersecurityCert/tree/main)
   - 
   
 - <b>Python</b>
