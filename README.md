@@ -3,11 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home Labs</b>
-  - [Active Directory](https://github.com/Mbars7/ActiveDirectoryHomeLab/tree/main)
+  - [Active Directory](https://github.com/Mbars7/ActiveDirectoryHomeLab)
 
 <h2>Google Cybersecurity Certificate:</h2>
 
-- [Completed all labs at 100% accuracy:](https://github.com/Mbars7/GoogleCybersecurityCert/blob/main/README.md)
+- [Completed all labs at 100% accuracy:](https://github.com/Mbars7/GoogleCybersecurityCert)
   - 
   
 - <b>Python</b>
