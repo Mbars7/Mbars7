@@ -8,7 +8,7 @@
 
 <h2>📜 Google Cybersecurity Certificate:</h2>
 
-- Obtaining the Google Cybersecurity Certificate involved working through a large number of labs covering a wide variety of topics.  There were labs focused on security hardening, running playbooks, conducting security audits, and vulnerability assessments.  These labs also provided hands-on experience with Python, Linux CL, SQL, Suricata, Splunk, and Chronicle.  All labs and quizzes were completed at 100%.
+- Obtaining the Google Cybersecurity Certificate involved working through a large number of labs covering a wide range of topics.  There were labs focused on security hardening, running playbooks, conducting security audits, and vulnerability assessments.  These labs also provided hands-on experience with Python, Linux CL, SQL, Suricata, Splunk, and Chronicle.  All labs and quizzes were completed at 100%.
 [Details](https://github.com/Mbars7/GoogleCybersecurityCert)
 
 
