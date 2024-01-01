@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home Labs</b>
-  - [Azure Sentinel](https://github.com/Mbars7/ActiveDirectoryHomeLab)
+  - [Azure Sentinel](https://github.com/Mbars7/AzureSentinelHomeLab)
   - [Active Directory](https://github.com/Mbars7/ActiveDirectoryHomeLab)
 
 <h2>📜 Google Cybersecurity Certificate:</h2>
