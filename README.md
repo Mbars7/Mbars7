@@ -4,6 +4,7 @@
 
 - <b>Home Labs</b>
   - [Azure Sentinel](https://github.com/Mbars7/AzureSentinelHomeLab)
+  - [Nessus](https://github.com/Mbars7/NessusHomeLab)
   - [Active Directory](https://github.com/Mbars7/ActiveDirectoryHomeLab)
 
 <h2>📜 Google Cybersecurity Certificate:</h2>
